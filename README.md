@@ -5,6 +5,7 @@ I'm Matheus Teixeira and I'm from Brazil. I'm currently working as a Software En
 [![Linkedin: matheus-batista-teixeira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/matheus-batista-teixeira/)](https://linkedin.com/in/matheus-batista-teixeira/)
 [![Instagram Badge](https://img.shields.io/badge/-mathbteixeira-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mathbteixeira/)](https://instagram.com/mathbteixeira)
 [![Instagram Badge](https://img.shields.io/badge/-dicasdodev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dicasdodev/)](https://instagram.com/dicasdodev)
+[![Gmail Badge](https://img.shields.io/badge/-mathbteixeira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathbteixeira@gmail.com)](mailto:mathbteixeira@gmail.com)
 
 
 ## ⚡ Technologies
