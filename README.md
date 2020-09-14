@@ -48,12 +48,3 @@ These are some of the technologies and tools that I work with:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mathbteixeira&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mathbteixeira.mathbteixeira)
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mathbteixeira" alt="alx365" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mathbteixeira&show_icons=true&theme=radical" alt="mathbteixeira" /> 
-</p> 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbteixeira&theme=radical" />
-</p>
-
