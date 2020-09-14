@@ -46,3 +46,5 @@ Currently Learning:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathbteixeira&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mathbteixeira.mathbteixeira)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
