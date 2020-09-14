@@ -37,6 +37,8 @@ These are some of the technologies and tools that I work with:
 
 Currently Learning:
 
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -47,4 +49,3 @@ Currently Learning:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mathbteixeira.mathbteixeira)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
