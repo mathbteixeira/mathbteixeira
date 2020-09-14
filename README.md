@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I'm Matheus Teixeira and I'm from Brazil. I'm currently working as a Software Engineer at Dell and I've been working in tech since 2016.
 
