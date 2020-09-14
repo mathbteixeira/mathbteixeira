@@ -35,7 +35,7 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Currently Learning:
+# Currently Learning:
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
