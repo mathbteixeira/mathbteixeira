@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathbteixeira" alt="mathbteixeira" /></a> </p>
 
-- 🔭 I’m currently working on [OnTop](https://www.getontop.com/)
+- 🔭 I’m currently working on [Agile Directive](https://agiledirective.com/) for [Abercrombie & Fitch](https://www.abercrombie.com/)
 
 - 🌱 I’m currently learning **Clean Architecture**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mbateixeira@yahoo.com.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/matheus-batista-teixeira/](https://www.linkedin.com/in/matheus-batista-teixeira/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/matheus-batista-teixeira/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
